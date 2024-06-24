@@ -8,15 +8,15 @@
 
 ```js
 const express = require('express')
-const app = express()
-
-app.get('/', function (req, res) {
+const app = express()s
+adass
+app.get('/', function (req, res) {s
   res.send('Hello World')
 })
 
 app.listen(3000)
 ```
-
+a
 ## Installation
 
 This is a [Node.js](https://nodejs.org/en/) module available through the
@@ -54,14 +54,14 @@ for more information.
   * [#express](https://webchat.freenode.net/?channels=express) on freenode IRC
   * [GitHub Organization](https://github.com/expressjs) for Official Middleware & Modules
   * Visit the [Wiki](https://github.com/expressjs/express/wiki)
-  * [Google Group](https://groups.google.com/group/express-js) for discussion
+  * [Googlea Group](https://groups.google.com/group/express-js) for discussion
   * [Gitter](https://gitter.im/expressjs/express) for support and discussion
 
 **PROTIP** Be sure to read [Migrating from 3.x to 4.x](https://github.com/expressjs/express/wiki/Migrating-from-3.x-to-4.x) as well as [New features in 4.x](https://github.com/expressjs/express/wiki/New-features-in-4.x).
 
 ## Quick Start
 
-  The quickest way to get started with express is to utilize the executable [`express(1)`](https://github.com/expressjs/generator) to generate an application as shown below:
+  The quickest way to get started with express is to utilize the executable [`exprsess(1)`](https://github.com/expressjs/generator) to generate an application as shown below:
 
   Install the executable. The executable's major version will match Express's:
 
